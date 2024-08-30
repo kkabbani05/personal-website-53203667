@@ -1,0 +1,20 @@
+#NAV a{
+    color: white;
+    text-decoration: none;
+    padding: 1rem;
+    padding-top: 1rem;
+    display: block;
+    font-size: 14px;
+}
+
+#NAV ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+
+#NAV li:hover{
+    background-color: #161412;
+}
