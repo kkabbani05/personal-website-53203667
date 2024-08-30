@@ -1,0 +1,54 @@
+.landingBackground{
+    background-color: #0f0905;
+    margin: 0;
+    padding: 0;
+}
+
+.splashPage{
+    height: 100vh;
+    color: white;
+}
+
+.hiText{
+    font-size: 3.5rem;
+    margin-top: 10vh;
+    margin-bottom: 0;
+    margin-left: 12rem;
+}
+.nameText{
+    font-size: 4.5rem;
+    margin-left: 12rem;
+    margin-top: 0;
+}
+
+.homeContainer{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-content: center;
+    text-align: center;
+    margin: auto;
+    color: white;
+    font-size: 1.5rem;
+}
+
+.imgStyling {
+    border-radius: 100%;
+    width: 25vw;
+    height: auto;
+}
+
+.transText{
+    margin: 0rem auto;
+    font-size: 2rem;
+    justify-content: center;
+    text-align: center;
+    color: white;
+}
+
+.semiCircle{
+    width: 100%;
+    height: 80vh;
+    border-radius: 10rem 10rem 0 0;
+    background-color: white;
+    margin-bottom: 5rem;
+}
