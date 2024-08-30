@@ -123,11 +123,34 @@
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     background-color: #0f0905;
+    margin: 0 auto;
+    justify-content: center;
+    text-align: center;
+    width: 80%;
 }
 
 .corerowContainer{
     display: grid;
     grid-template-rows: 1fr 1fr;
+    row-gap: 5rem;                      
+}
+
+.boxes{
+    display: block;
+    width: 25vw;
+    height: 25vw;
+    border-radius: 10%;
+    box-shadow: #ccf390;
+    background-color: #ccf390;
+    margin: auto;
+}
+
+.insideBox{
+    line-height: 25vw;
+    text-align: center;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
 }
 
 
