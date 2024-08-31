@@ -1,0 +1,76 @@
+.landingBackground{
+    background-color: #0f0905;
+    margin: 0;
+    padding: 0;
+}
+
+.splashPage{
+    height: 100vh;
+    color: white;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    width: 84%;
+}
+
+.initialText{
+    font-family: 'Kode Mono';
+    font-size: 3.5rem;
+    margin: auto;
+    margin-top: 20vh;
+    justify-content: center;
+    text-align: center;
+}
+
+.afterText{
+    font-family: 'Kode Mono';
+    font-size: 3.5rem;
+    justify-content: center;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.backg{
+    background-color: white;
+}
+
+.splashPage2{
+    /* height: 100vh; */
+    color: #ccf390;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    width: 84%;
+}
+
+.pText{
+    margin-top: 0vh;
+}
+
+.rText{
+    margin-top: 12.5vh;
+}
+
+.oText{
+    margin-top: 37.5vh;
+}
+
+.jText{
+    margin-top: 50vh;
+}
+
+.eText{
+    margin-top: 62.5vh;
+}
+
+.cText{
+    margin-top: 75vh;
+}
+
+.tText{
+    margin-top: 87.5vh;
+}
+
+.sText{
+    margin-top: 100vh;
+}
+
